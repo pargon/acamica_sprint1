@@ -1,4 +1,4 @@
-# acamica_sprint1
+# App
 Acamica sprint 1
 
 # Instrucciones
